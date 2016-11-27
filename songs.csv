@@ -2,6 +2,10 @@
 # The last parameter should be the song's URL. If it does not start with 'http', it will be parsed as a YouTube ID.
 # Newlines are denoted with <br>
 # Prefixing a character with ^ will force it to be lowercase
+# My songs
+donk|Cryptrik|Donktrousle|Pop|0B3DhUCRnvErzaFdwc1RCdU9FUzQ
+savephantasmix|DM DOKURO|SAVE (Phantasmix)|Rock|0B3DhUCRnvErzbkx2UU9ZbU5OQzQ
+# Vis.js songs
 gramophone|Faux|Gramophone|Indie Dance|0B8_nDMQp-qqCRy1odzBBVC0yM3c
 gravity|Umpire|Gravity<br>(feat. Liz Kretschmer)|Liquid Dubstep|0B8_nDMQp-qqCcm1BcGhCZUVoOGc
 pressure|Draper|Pressure<br>(feat. Laura Brehm)|Liquid Dubstep|0B8_nDMQp-qqCNFg1WEdXX0s1dTA
@@ -744,4 +748,4 @@ rare|Going Quantum ^x Psychic Type|Rare|Hybrid Trap|0B8_nDMQp-qqCSS13VjNjWXNLUTA
 words|Feint|Words<br>(feat. Laura Brehm)|Dancefloor Drum & Bass|0B8_nDMQp-qqCSmVGWTd5WHZxUFk
 nemesis|Rogue|Nemesis|Hybrid Twerk Trap|0B8_nDMQp-qqCd1ZzTEpockJ1bTA
 halo|SMLE|Halo<br>(feat. Helen Tess)|Future Bass|0B8_nDMQp-qqCbDhLeXV3dXgyeXc
-spongewave|Android52 ^x Ween|s p o n g e w a v e バーガー // カニ 420|Synthwave|0B8_nDMQp-qqCVlZVd0twc3VFelk|
+spongewave|Android52 ^x Ween|s p o n g e w a v e バーガー // カニ 420|Synthwave|0B8_nDMQp-qqCVlZVd0twc3VFelk
